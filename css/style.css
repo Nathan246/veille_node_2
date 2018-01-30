@@ -32,6 +32,7 @@ h1 {
 .principale {
   width: 65%;
   margin: auto;
+  text-align: justify;
 }
 img {
   max-height: 300px;
